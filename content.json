@@ -1,6 +1,8 @@
 {
-  "heroTitle": "B",
+  "heroTitle": "This is Crazy",
   "bodyCopy": "This is the basic copy for page B.",
-  "revision": 1,
-  "releaseId": "initial-b"
+  "revision": 6,
+  "releaseId": "release-223f99db-8dd2-47ac-90e2-ed2b2390366d",
+  "contentHash": "f501d35e77c84a8f9361bcbe79f66280c717b4a6e8d4db613c5965dc9f917937",
+  "publishedAt": "2026-09-06T04:15:22.321Z"
 }
